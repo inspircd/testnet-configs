@@ -23,15 +23,15 @@
 
       ┏━━━━━━━━━━━━┫ SERVER LISTENERS ┣━━━━━━━━━━━━━┓
       ┃                                             ┃
-      ┃ \bIRC PORTS:\b                                 ┃
+      ┃ \bIRC PORTS:\b                                  ┃
       ┃                                             ┃
-      ┃    \b6667\b - plain text (STS only)            ┃
-      ┃    \b6697\b - TLS                              ┃
-      ┃    \b8067\b - plain text WebSocket (STS only)  ┃
-      ┃    \b8097\b - WebSocket over TLS               ┃
+      ┃    \b6667\b - plain text (STS only)             ┃
+      ┃    \b6697\b - TLS                               ┃
+      ┃    \b8067\b - plain text WebSocket (STS only)   ┃
+      ┃    \b8097\b - WebSocket over TLS                ┃
       ┃                                             ┃
-      ┃ \bOTHER PORTS:\b                               ┃
+      ┃ \bOTHER PORTS:\b                                ┃
       ┃                                             ┃
-      ┃    \b6443\b - HTTP over TLS (test:test)        ┃
+      ┃    \b6443\b - HTTP over TLS (test:test)         ┃
       ┃                                             ┃
       ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
