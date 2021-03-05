@@ -1,0 +1,7 @@
+/examples
+/help.txt
+/inspircd.conf
+*.mmdb
+*.pem
+.*
+!.git*
